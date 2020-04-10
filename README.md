@@ -1,4 +1,4 @@
-US Poverty Rate by State from 1998 to 2018 ¶
+# US Poverty Rate by State from 1998 to 2018 
 
 Poverty rates are extracted from census.gov.
 
